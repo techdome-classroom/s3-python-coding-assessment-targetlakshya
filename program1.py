@@ -16,7 +16,7 @@ class Solution(object):
         return not stack
         pass
 Solution = Solution()
-print(Solution)    
+print(Solution.isValid("()"))    
 
 
 
