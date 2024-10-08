@@ -24,7 +24,7 @@ class Solution(object):
                 total -= value
             else :
                 total += value
-        
+        return total
         pass
 
 
