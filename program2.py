@@ -26,6 +26,8 @@ class Solution(object):
                 total += value
         return total
         pass
+Solution = Solution()
+
 
 
 
