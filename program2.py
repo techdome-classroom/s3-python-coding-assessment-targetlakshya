@@ -26,8 +26,8 @@ class Solution(object):
                 total += value
         return total
         pass
-Solution = Solution()
-print(Solution.romanToInt('XIV'))   
+# Solution = Solution()
+# print(Solution.romanToInt('XIV'))   
 
 
 
