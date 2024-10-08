@@ -15,9 +15,9 @@ class Solution(object):
                     return False
         return not stack
         pass
-Solution = Solution()
-print(Solution.isValid("()"))    
-print(Solution.isValid("[])"))    
+# Solution = Solution()
+# print(Solution.isValid("()"))    
+# print(Solution.isValid("[])"))    
 
 
 
