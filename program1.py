@@ -17,6 +17,8 @@ class Solution(object):
         pass
 Solution = Solution()
 print(Solution.isValid("()"))    
+print(Solution.isValid("()"))    
+
 
 
 
