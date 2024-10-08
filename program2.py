@@ -27,7 +27,7 @@ class Solution(object):
         return total
         pass
 Solution = Solution()
-print(Solution.romanToInt())   
+print(Solution.romanToInt('XIV'))   
 
 
 
