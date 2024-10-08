@@ -21,7 +21,10 @@ class Solution(object):
             value = roman_values[s[i]]
 
             if i + 1 < n and roman_values[s[i+1]] > value:
-                
+                total -= value
+            else :
+                total += value
+        
         pass
 
 
