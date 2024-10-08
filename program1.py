@@ -11,7 +11,7 @@ class Solution(object):
             if char in mapping.values():
                 stack.append(char)
             elif char in mapping.keys():
-                if not stack
+                if not stack or stack.pop() != mapping(char)
         pass
 
 
