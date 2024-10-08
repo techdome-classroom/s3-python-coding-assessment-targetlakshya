@@ -7,7 +7,8 @@ class Solution(object):
         stack = []
         mapping = {')' : '(', '}':'{', ']' : '[]'}
 
-        for 
+        for char in s :
+            if char in 
         pass
 
 
