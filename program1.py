@@ -6,6 +6,8 @@ class Solution(object):
         """
         stack = []
         mapping = {')' : '(', '}':'{', ']' : '[]'}
+
+        for 
         pass
 
 
