@@ -5,7 +5,9 @@ class Solution(object):
         :rtype: int
         """
         roman_values = {
-            'I' 
+            'I' : 1,
+            'V' : 5,
+            'X' : 
         }
         pass
 
